@@ -9,6 +9,6 @@ Criamos uma conta.
 
 Implementamos uma aplicação com python.
 
-E vamos expor essa disponibilizar a aplicação no servidor instância do Amazon EC2.
+E vamos expora aplicação e disponibilizar a aplicação no servidor instância do Amazon EC2.
 
 
